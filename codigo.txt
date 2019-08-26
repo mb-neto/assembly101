@@ -1,9 +1,0 @@
-#comentários
-
-.text
-
-
-main:
-	#instruções
-
-.data
