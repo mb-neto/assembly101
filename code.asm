@@ -1,4 +1,4 @@
-#comentários
+#comentÃ¡rios
 
 .text
 
@@ -20,7 +20,7 @@ main:
 	lw $s6,F
 
 
-#operações
+#operaÃ§Ãµes
 	mult $s2, $s3
 	mflo $t0
 	add $t1,$s1,$t0	
